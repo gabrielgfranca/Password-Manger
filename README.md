@@ -31,10 +31,10 @@ This project is a simple **Password Manager** application developed in Python us
 
 ## Images
 <div style="display: inline_block"><br>
-  <img align="center" height="400" width="400" src=""/>
-  <img align="center" height="400" width="400" src=""/>
-  <img align="center" height="400" width="400" src=""/>
-  <img align="center" height="400" width="400" src=""/>
-  <img align="center" height="400" width="400" src=""/>
-  <img align="center" height="400" width="400" src=""/>
+  <img align="center" height="424" width="477" src="https://github.com/user-attachments/assets/cce00725-e303-4111-b921-e5423fe944e0"/>
+  <img align="center" height="433" width="539" src="https://github.com/user-attachments/assets/ae7a1dcb-8a2a-4804-bb04-a14bea6ca531"/>
+  <img align="center" height="631" width="869" src="https://github.com/user-attachments/assets/0ed03e57-f947-4086-80f9-2523e163f30f"/>
+  <img align="center" height="425" width="477" src="https://github.com/user-attachments/assets/d2a86330-ea35-454d-ba1f-31e9870e002b"/>
+  <img align="center" height="626" width="890" src="https://github.com/user-attachments/assets/07fbd20c-13fc-47ca-b624-66f3068b234a"/>
+  <img align="center" height="431" width="489" src="https://github.com/user-attachments/assets/da175116-45ac-4955-b0b0-53e1c80a3c70"/>
 </div>
