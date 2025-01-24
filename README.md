@@ -29,12 +29,29 @@ This project is a simple **Password Manager** application developed in Python us
 
 ***Note:** This application is a simple project for educational purposes and does not provide encryption for stored passwords.*
 
+## Update - 01.24.2025
+
+The project has received a major update, introducing JSON file handling and advanced exception management techniques, such as `try`, `except`, `else`, and `finally`. The new features include:
+
+- **Data Verification:**  
+  When entering a website name and click on the `search` button, the program checks if it is already registered in the JSON file.  
+  - If the website is found, a pop-up will display the site name, email/username, and the previously saved password.  
+  - If the website is not found, a warning message will notify you that no data was found in the database.
+
+- **JSON File Creation:**  
+  If the JSON file does not exist on the system, it will be automatically created with the name *PasswordManager.json*.
+
+- **Automatic Opening:**  
+  After saving the information, the JSON file will automatically open in your preferred editor for review or editing.
+
+The updated code is available in the repository under the name: `main_upgraded.py`.
+
 ## Images
 <div style="display: inline_block"><br>
-  <img align="center" height="424" width="477" src="https://github.com/user-attachments/assets/cce00725-e303-4111-b921-e5423fe944e0"/>
-  <img align="center" height="433" width="539" src="https://github.com/user-attachments/assets/ae7a1dcb-8a2a-4804-bb04-a14bea6ca531"/>
-  <img align="center" height="631" width="869" src="https://github.com/user-attachments/assets/0ed03e57-f947-4086-80f9-2523e163f30f"/>
-  <img align="center" height="425" width="477" src="https://github.com/user-attachments/assets/d2a86330-ea35-454d-ba1f-31e9870e002b"/>
-  <img align="center" height="626" width="890" src="https://github.com/user-attachments/assets/07fbd20c-13fc-47ca-b624-66f3068b234a"/>
-  <img align="center" height="431" width="489" src="https://github.com/user-attachments/assets/da175116-45ac-4955-b0b0-53e1c80a3c70"/>
+  <img align="center" height="324" width="377" src="https://github.com/user-attachments/assets/cce00725-e303-4111-b921-e5423fe944e0"/>
+  <img align="center" height="333" width="439" src="https://github.com/user-attachments/assets/ae7a1dcb-8a2a-4804-bb04-a14bea6ca531"/>
+  <img align="center" height="531" width="769" src="https://github.com/user-attachments/assets/0ed03e57-f947-4086-80f9-2523e163f30f"/>
+  <img align="center" height="325" width="377" src="https://github.com/user-attachments/assets/d2a86330-ea35-454d-ba1f-31e9870e002b"/>
+  <img align="center" height="526" width="790" src="https://github.com/user-attachments/assets/07fbd20c-13fc-47ca-b624-66f3068b234a"/>
+  <img align="center" height="331" width="389" src="https://github.com/user-attachments/assets/da175116-45ac-4955-b0b0-53e1c80a3c70"/>
 </div>
