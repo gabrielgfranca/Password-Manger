@@ -46,7 +46,11 @@ The project has received a major update, introducing JSON file handling and adva
 
 The updated code is available in the repository under the name: `main_upgraded.py`.
 
-## Images
+<img align="center" height="448" width="501" src="https://github.com/user-attachments/assets/9048c05b-c981-4cd6-ac0f-19d1e0385267"/>
+
+---
+
+## Images (Old Version)
 <div style="display: inline_block"><br>
   <img align="center" height="324" width="377" src="https://github.com/user-attachments/assets/cce00725-e303-4111-b921-e5423fe944e0"/>
   <img align="center" height="333" width="439" src="https://github.com/user-attachments/assets/ae7a1dcb-8a2a-4804-bb04-a14bea6ca531"/>
